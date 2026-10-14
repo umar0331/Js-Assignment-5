@@ -49,3 +49,4 @@ if (performanceScore >= 90) {
   console.log("poor");
 }
 // here is run average bec 56 is greater then 50
+// end
